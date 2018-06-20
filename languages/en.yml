@@ -31,8 +31,8 @@ post:
   untitled: Untitled
   sticky: Sticky
   toc_empty: This post does not have a Table of Contents
-  views: Views
-  comments_count: Comments
+  # views: views
+  # comments_count: comments
   related_posts: Related Posts
   copy_button: Copy
   copy_success: Copied
@@ -107,8 +107,8 @@ accessibility:
   next_page: Next page
 
 symbols_count_time:
-  count: Symbols count in article
+  count: words
   count_total: Symbols count total
-  time: Reading time
+  time: read times
   time_total: Reading time total
   time_minutes: mins.
